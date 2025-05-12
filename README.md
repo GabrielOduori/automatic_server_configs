@@ -68,7 +68,7 @@ server_config/
 │   │   ├── system_update.sh
 │   │   ├── user_setup.sh
 
-
+```
 
 * Ubuntu 24.01 LTS (clean installation recommended)
 * SSH access with sudo/root privileges
