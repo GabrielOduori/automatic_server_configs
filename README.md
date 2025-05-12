@@ -81,7 +81,7 @@ To ensure all the setup scripts are executable, run the following command:
 chmod +x set_up/*.sh
 ```
 
-## 🚀 Running the Setup Scripts
+## Running the Setup Scripts
 
 To run the setup process:
 
