@@ -5,21 +5,21 @@ This project automates the end-to-end setup of a production-ready Django applica
 ## 🔧 Features
 
 * Automated creation and hardening of a new Linux user
-* Installation and configuration of PostgreSQL (planned)
-* Setup of Gunicorn as the application server (planned)
+* Installation and configuration of PostgreSQL
+* Setup of Gunicorn as the application server
 * Configuration of Nginx as a reverse proxy
 * Free SSL certificate provisioning with Let's Encrypt (Certbot)
 * Modular shell scripts for reusability and maintainability
-* Single `.env` configuration for all parameters (planned)
-* Idempotent and structured script execution
+* Single `.env` configuration for all parameters
 
-## 📁 Description of Setup Scripts
+
+## Description of Setup Scripts
 
 
 
 ---
 
-## 📁 Description of Setup Scripts
+## Description of Setup Scripts
 
 The `set_up` directory contains a collection of shell scripts designed to automate the configuration of a server. Below is a brief description of each script:
 
@@ -43,7 +43,7 @@ These scripts work together to streamline the server setup process, ensuring a s
 * **.gitignore**: Specifies files and directories that should be ignored by Git, including the `.env` file.
 * **README.md**: This Documentation. It includes setup instructions and usage guidelines.
 
-## 📦 Directory Structure
+## Directory Structure
 
 ```
 
@@ -73,7 +73,7 @@ server_config/
 * Ubuntu 24.01 LTS (clean installation recommended)
 * SSH access with sudo/root privileges
 
-## ⚙️ Making Scripts Executable
+## Making Scripts Executable
 
 To ensure all the setup scripts are executable, run the following command:
 
@@ -89,11 +89,11 @@ To run the setup process:
 ./deploy_setup.sh
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! If you find a bug, want to improve the process, or extend it for other frameworks, feel free to fork and PR.
 
-## 📜 License
+## License
 
 MIT License
 
