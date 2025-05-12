@@ -46,7 +46,7 @@ These scripts work together to streamline the server setup process, ensuring a s
 ## 📦 Directory Structure
 
 ```
-```
+
 server_config/
 ├── deploy_setup.sh
 ├── .env (to be created by the user)
