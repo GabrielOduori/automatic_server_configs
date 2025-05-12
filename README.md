@@ -2,7 +2,7 @@
 
 This project automates the end-to-end setup of a production-ready Django application on a fresh Ubuntu server. It handles everything from initial server hardening to reverse proxy and SSL setup using best practices and commonly used tools.
 
-## 🔧 Features
+## Features
 
 * Automated creation and hardening of a new Linux user
 * Installation and configuration of PostgreSQL
